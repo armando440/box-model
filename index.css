@@ -1,0 +1,27 @@
+h1 {
+ color: white;  
+ text-align: center;
+}
+div{
+   font-size: 40px 30%;
+    background-color: white;  
+    text-align: center; 
+    color:white;
+}
+p{ color: white;  
+    text-align: center; 
+}
+footer{
+    background-color: red;  text-align: center;
+    color: red; 
+border-bottom-right-radius: 20px;
+border-bottom-left-radius: 20px;   
+}
+.wrapper{
+background-color: red; 
+margin: 10px 33%; 
+border-radius: 20px;
+}
+h2{
+    color: black;
+}
